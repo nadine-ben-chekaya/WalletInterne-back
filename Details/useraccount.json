@@ -1,0 +1,17 @@
+{
+  "users": [
+    { "username": "admin", "password": "1234", "role": "admin", "pkey": "" },
+    {
+      "username": "nadine99",
+      "password": "9999",
+      "role": "client",
+      "pkey": "0xf4126b92fb7e132ca8f7916360d4ad77d6941543300c5d3415225ccfd015dd6a"
+    },
+    {
+      "username": "nada99",
+      "password": "9999",
+      "role": "client",
+      "pkey": "0xe413a35768d2d1a450bb82002dbbeabbe6878cdb83baf866a1dcc08507275299"
+    }
+  ]
+}
